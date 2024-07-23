@@ -48,7 +48,7 @@ Languages
 * French (B2)
 * Turkish (A1)
 
- ork experience
+Work experience
 ======
 
 * Summer 2020: Internship
