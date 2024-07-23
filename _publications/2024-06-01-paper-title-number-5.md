@@ -1,7 +1,7 @@
 ---
 title: "⚖️ Evaluating text classification: A benchmark study"
 collection: publications
-permalink: /publication/2024.06-paper-title-number-5
+permalink: /publication/2024-06-01-paper-title-number-5
 excerpt: 'This paper includes a benchmark study comparing different techniques for text classification.'
 date: 2024-06-01
 venue: 'Expert Systems with Applications'

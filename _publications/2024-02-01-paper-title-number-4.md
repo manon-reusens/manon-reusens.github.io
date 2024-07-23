@@ -1,7 +1,7 @@
 ---
 title: "🐥 Predicting the demographics of Twitter users with programmatic weak supervision"
 collection: publications
-permalink: /publication/2024.02-paper-title-number-4
+permalink: /publication/2024-02-01-paper-title-number-4
 excerpt: 'This paper introduces a three-step weak supervision approach for predicting demographics of Twitter users.'
 date: 2024-02-01
 venue: 'TOP'

@@ -1,7 +1,7 @@
 ---
 title: "✅ SEER : A Knapsack approach to Exemplar Selection for In-Context HybridQA"
 collection: publications
-permalink: /publication/2023.10-paper-title-number-3
+permalink: /publication/2023-10-01-paper-title-number-3
 excerpt: 'This paper introduces a new exemplar selection method named SEER for in-context hybridQA.'
 date: 2023-10-01
 venue: 'EMNLP'

@@ -1,7 +1,7 @@
 ---
 title: "🌍 Investigating Bias in Multilingual Language Models: Cross-Lingual Transfer of Debiasing Techniques"
 collection: publications
-permalink: /publication/2023.10-paper-title-number-2
+permalink: /publication/2023-10-01-paper-title-number-2
 excerpt: 'This paper investigates the transferability of debiasing techniques across different languages within multilingual models.'
 date: 2023-10-01
 venue: 'EMNLP'

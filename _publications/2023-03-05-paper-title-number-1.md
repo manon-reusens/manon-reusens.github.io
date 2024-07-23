@@ -1,7 +1,7 @@
 ---
 title: "💡 Topic modelling applied on innovation studies of Flemish companies"
 collection: publications
-permalink: /publication/2023.03-paper-title-number-1
+permalink: /publication/2023-03-05-paper-title-number-1
 excerpt: 'This paper uses topic modelling to analyze innovation within Flemish companies based on their websites.'
 date: 2023-03-05
 venue: 'Journal of Business Analytics'
