@@ -12,7 +12,7 @@ Hi, I am Manon Reusens, a PhD student at the KU Leuven supervised by Professor [
 
 I am part of the Research Centre for Information Systems Engineering (LIRIS) at the Faculty of Business and Economics at the KU Leuven. Throughout my PhD I have focused on many different applications of Natural Language Processing. Currently, I am mostly focused on NLP ethics, and Computational Social Science. 
 
-🎵 I am also very passionate about music.  𝄢 I have been playing the cello for more than 20 years, 🎤 love to sing  in different bands, 🎹 and also play the piano .
+🎵 I am also very passionate about music.  𝄢 I have been playing the cello for 20 years, 🎤 love to sing  in different bands, 🎹 and also play the piano .
 
 
 🔎 Research interests 
