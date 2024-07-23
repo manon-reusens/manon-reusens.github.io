@@ -57,7 +57,8 @@ Work experience
 
 Service and leadership
 ======
-* 2023-2024: Midzomerfestival - Fonds Mathieu Reusens, Festival Organizer
-* 2020-2021: Symphonic Orchestra of the KU Leuven, President
-* 2019-2020: Symphonic Orchestra of the KU Leuven, Treasurer
-* 2018-2019: Symphonic Orchestra of the KU Leuven, Public Relations
+* 2024-03: Co-organizer of the session *Samenwerking tussen het netwerk Statistiek Vlaanderen en de academische wereld* at the [Dag van het Netwerk Statistiek Vlaanderen](https://www.vlaanderen.be/statistiek-vlaanderen/dag-van-het-netwerk-statistiek-vlaanderen-op-21-maart-2024)
+* 2023-2024: [Midzomerfestival - Fonds Mathieu Reusens](https://fonds.mathieureusens.be/midzomerfestival), Festival Organizer
+* 2020-2021: [Symphonic Orchestra of the KU Leuven](https://usoleuven.be/), President
+* 2019-2020: [Symphonic Orchestra of the KU Leuven](https://usoleuven.be/), Treasurer
+* 2018-2019: [Symphonic Orchestra of the KU Leuven](https://usoleuven.be/), Public Relations
