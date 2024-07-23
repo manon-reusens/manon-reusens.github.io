@@ -11,35 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D in NLP Ethics, KU Leuven, 2025 (expected)
+* M.S. in Business engineering (Magna Cum Laude - 84%), KU Leuven, 2021
+* B.S. in Business engineering (Magna Cum Laude - 77.5%), KU Leuven, 2019
+* Exchange Semester at Brock university, 2018
 
 Publications
 ======
@@ -59,6 +34,30 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Mentoring
+======
+In total, I have guided 16 master theses at the KU Leuven.
+Two of these projects have led to a journal publication, and one of them led to a publication at EMNLP 2023.
+Apart from this, I have also guided summer interns.
+
+  
+Languages
+======
+* Dutch (C2)
+* English (C1)
+* French (B2)
+* Turkish (A1)
+
+ ork experience
+======
+
+* Summer 2020: Internship
+  * Infofarm
+  * Duties included: Data Preperation and Modeling
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2023-2024: Midzomerfestival - Fonds Mathieu Reusens, Festival Organizer
+* 2020-2021: Symphonic Orchestra of the KU Leuven, President
+* 2019-2020: Symphonic Orchestra of the KU Leuven, Treasurer
+* 2018-2019: Symphonic Orchestra of the KU Leuven, Public Relations
