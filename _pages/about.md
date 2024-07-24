@@ -12,7 +12,7 @@ Hi, I am Manon Reusens, a PhD student at the KU Leuven supervised by Professor [
 
 I am part of the Research Centre for Information Systems Engineering (LIRIS) at the Faculty of Business and Economics at the KU Leuven. Throughout my PhD I have focused on many different applications of Natural Language Processing. Currently, I am mostly focused on NLP ethics, and Computational Social Science. 
 
-🎵 I am also very passionate about music.  𝄢 I have been playing the cello for 20 years, 🎤 love to sing  in different bands, 🎹 and also play the piano .
+🎵 I am also very passionate about music.  I have been playing the cello for 20 years, love to sing  in different bands, and also play the piano .
 
 
 🔎 Research interests 
@@ -24,6 +24,7 @@ I am part of the Research Centre for Information Systems Engineering (LIRIS) at 
 
 📢 News 
 ======
+*2024.06*: Our latest preprint [Native Design Bias: Studying the Impact of English Nativeness on Language Model Performance](https://arxiv.org/pdf/2406.17385) is available on ArXiv.
 *2024.06*:  Our paper [Evaluating text classification: A benchmark study](https://www.sciencedirect.com/science/article/pii/S0957417424011680) was accepted at ESWA \\
 *2024.02*:  Our paper [Predicting the demographics of Twitter users with programmatic weak supervision](https://link.springer.com/article/10.1007/s11750-024-00666-y) was published at TOP \\
 *2023.10*:  Two papers [Investigating Bias in Multilingual Language Models: Cross-Lingual Transfer of Debiasing Techniques](https://aclanthology.org/2023.emnlp-main.175/) and [SEER](https://aclanthology.org/2023.emnlp-main.837/) were accepted at EMNLP 2023 (main) \\

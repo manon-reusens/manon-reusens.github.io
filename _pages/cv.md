@@ -53,7 +53,7 @@ Work experience
 
 * Summer 2020: Internship
   * Infofarm
-  * Duties included: Data Preperation and Modeling
+  * Duties included: Data Preparation and Modeling
 
 Service and leadership
 ======
