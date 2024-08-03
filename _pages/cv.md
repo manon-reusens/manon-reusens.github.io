@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in NLP Ethics, KU Leuven, 2025 (expected)
+* Ph.D in Computational Social Science and Bias and Fairness in NLP, KU Leuven, 2025 (expected)
 * Research stay University of Melbourne, september 2022
 * M.S. in Business engineering (Magna Cum Laude - 84%), KU Leuven, 2021
 * B.S. in Business engineering (Magna Cum Laude - 77.5%), KU Leuven, 2019
