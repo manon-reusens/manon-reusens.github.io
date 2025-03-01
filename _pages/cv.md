@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computational Social Science and Bias and Fairness in NLP, KU Leuven, 2025 (expected)
+* Research stay University of Michigan, October-December 2024
 * Research stay University of Melbourne, september 2022
 * M.S. in Business engineering (Magna Cum Laude - 84%), KU Leuven, 2021
 * B.S. in Business engineering (Magna Cum Laude - 77.5%), KU Leuven, 2019
@@ -37,7 +38,7 @@ Teaching
   
 Mentoring
 ======
-In total, I have guided 16 master theses at the KU Leuven.
+In total, I have guided 19 master theses at the KU Leuven.
 Two of these projects have led to a journal publication, and one of them led to a publication at EMNLP 2023.
 Apart from this, I have also guided summer interns.
 

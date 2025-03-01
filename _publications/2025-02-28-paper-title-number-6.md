@@ -1,0 +1,12 @@
+---
+title: "⚓ Large Language Models to make museum archive collections more accessible"
+collection: publications
+permalink: /publication/2025-02-28-paper-title-number-6
+excerpt: 'This paper shows how to LLMs offer potential to make archive collections more accessible by automating the keyword extraction process.'
+date: 2025-02-28
+venue: 'AI & SOCIETY'
+paperurl: 'https://link.springer.com/article/10.1007/s00146-025-02227-8'
+citation: 'Reusens, M., Adams, A. & Baesens, B.  (2025). Large Language Models to make museum archive collections more accessible. AI & SOCIETY. https://doi.org/10.1007/s00146-025-02227-8'
+---
+Abstract:\\
+Keywords are essential to the searchability and therefore discoverability of museum and archival collections in the modern world. Without them, the collection management systems (CMS) and online collections these cultural organisations rely on to record, organise, and make their collections accessible, do not operate efficiently. However, generating these keywords manually is time consuming for these already resource strapped organisations. Artificial intelligence (AI), particularly generative AI and Large Language Models (LLMs), could hold the key to generating, even automating, this key data and as such be considered a co-creative add-on. This study contributes to the literature by introducing the use of Meta’s open-source LLM, Llama, to generate keywords from curator/archivist written descriptions of museum and archival collection items. Our findings suggest that these technologies add significant value compared to current manual methods for keyword generation. In particular, we find that through using carefully crafted prompts, successful keyword augmentations could be established making museum and archival collections much more accessible to wider and more diverse audiences. However, the results also showed that generative AI has biases (e.g., hallucinations, over generalisations, outdated language), though the frequency of occurrence was not as high as general perception may insist. Hence, we also discuss mitigation strategies to address these and how cultural institutions can recognise the risks and errors while getting the most from the systems. Finally, we discuss options to achieve structured results which allow easier ingestion of data back into CMS. Ultimately, LLMs hold significant potential to enhance accessibility to museum and archival collections, yet they are not without imperfection as we extensively discuss.

@@ -24,11 +24,12 @@ I am part of the Research Centre for Information Systems Engineering (LIRIS) at 
 
 📢 News 
 ======
+*2025.02": Our newest paper [Large Language Models to make Museum Archive Collections more accessible](https://link.springer.com/article/10.1007/s00146-025-02227-8) was published in AI & SOCIETY \\
 *2024.12*: Came back from my research stay at the University of Michigan, working together with Professor [David Jurgens](https://scholar.google.com/citations?user=sGFFr5kAAAAJ&hl=en) and his lab. \\
 *2024.06*: Our latest preprint [Native Design Bias: Studying the Impact of English Nativeness on Language Model Performance](https://arxiv.org/pdf/2406.17385) is available on ArXiv. \\
 *2024.06*:  Our paper [Evaluating text classification: A benchmark study](https://www.sciencedirect.com/science/article/pii/S0957417424011680) was accepted at ESWA \\
-*2024.02*:  Our paper [Predicting the demographics of Twitter users with programmatic weak supervision](https://link.springer.com/article/10.1007/s11750-024-00666-y) was published at TOP \\
+*2024.02*:  Our paper [Predicting the demographics of Twitter users with programmatic weak supervision](https://link.springer.com/article/10.1007/s11750-024-00666-y) was published in TOP \\
 *2023.10*:  Two papers [Investigating Bias in Multilingual Language Models: Cross-Lingual Transfer of Debiasing Techniques](https://aclanthology.org/2023.emnlp-main.175/) and [SEER](https://aclanthology.org/2023.emnlp-main.837/) were accepted at EMNLP 2023 (main) \\
-*2023.03*:  Our paper [Topic modelling applied on innovation studies of Flemish companies](https://www.tandfonline.com/doi/pdf/10.1080/2573234X.2023.2186274) was published at Journal of Business Analytics  \\
+*2023.03*:  Our paper [Topic modelling applied on innovation studies of Flemish companies](https://www.tandfonline.com/doi/pdf/10.1080/2573234X.2023.2186274) was published in Journal of Business Analytics  \\
 *2021.09*:  Start PhD at the KU Leuven 
 
