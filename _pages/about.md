@@ -24,7 +24,8 @@ I am part of the Research Centre for Information Systems Engineering (LIRIS) at 
 
 📢 News 
 ======
-*2025.02": Our newest paper [Large Language Models to make Museum Archive Collections more accessible](https://link.springer.com/article/10.1007/s00146-025-02227-8) was published in AI & SOCIETY \\
+*2025.03*: I successfully passed my predefense with minor revisions and am now set to do my public defense in June.
+*2025.02*: Our newest paper [Large Language Models to make Museum Archive Collections more accessible](https://link.springer.com/article/10.1007/s00146-025-02227-8) was published in AI & SOCIETY \\
 *2024.12*: Came back from my research stay at the University of Michigan, working together with Professor [David Jurgens](https://scholar.google.com/citations?user=sGFFr5kAAAAJ&hl=en) and his lab. \\
 *2024.06*: Our latest preprint [Native Design Bias: Studying the Impact of English Nativeness on Language Model Performance](https://arxiv.org/pdf/2406.17385) is available on ArXiv. \\
 *2024.06*:  Our paper [Evaluating text classification: A benchmark study](https://www.sciencedirect.com/science/article/pii/S0957417424011680) was accepted at ESWA \\
