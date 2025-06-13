@@ -24,6 +24,7 @@ I am part of the Research Centre for Information Systems Engineering (LIRIS) at 
 
 📢 News 
 ======
+*2025.06*: I got the opportunity to pitch at the [Social Science and Humanities Research day](https://ghum.kuleuven.be/NL/dag-van-het-onderzoek-hw-2025) on language bias in AI.\\
 *2025.05*: I was invited to give a talk on our latest paper on Large Language Models to make Museum Archive Collections more accessible in the AI in cultural heritage group.\\
 *2025.03*: I successfully passed my predefense with minor revisions and am now set to do my public defense in June.\\
 *2025.02*: Our newest paper [Large Language Models to make Museum Archive Collections more accessible](https://link.springer.com/article/10.1007/s00146-025-02227-8) was published in AI & SOCIETY. \\
