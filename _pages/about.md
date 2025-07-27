@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hi, I am Manon Reusens, I recently graduated as a PhD student at the KU Leuven supervised by Professor [Bart Baesens](https://scholar.google.com/citations?user=IC7ghFwAAAAJ&hl=en&oi=ao) and co-supervised by Professor [Seppe vanden Broucke](https://scholar.google.com/citations?user=uIfUaMMAAAAJ&hl=en&oi=ao) and Professor [Wouter Verbeke](https://scholar.google.com/citations?user=Ckyal8gAAAAJ&hl=en). In September, I start a postdoc with Professor [David Martens]() and Professor [Toon Calders]() as research manager of the [Antwerp Center for Responsible AI (ACRAI)]().
+Hi, I am Manon Reusens, I recently graduated as a PhD student at the KU Leuven supervised by Professor [Bart Baesens](https://scholar.google.com/citations?user=IC7ghFwAAAAJ&hl=en&oi=ao) and co-supervised by Professor [Seppe vanden Broucke](https://scholar.google.com/citations?user=uIfUaMMAAAAJ&hl=en&oi=ao) and Professor [Wouter Verbeke](https://scholar.google.com/citations?user=Ckyal8gAAAAJ&hl=en). In September, I start a postdoc with Professor [David Martens](https://scholar.google.be/citations?user=gbce1doAAAAJ&hl=nl&oi=ao) and Professor [Toon Calders](https://scholar.google.be/citations?hl=nl&user=CcqxbMkAAAAJ) as research manager of the [Antwerp Center on Responsible AI (ACRAI)](https://www.uantwerpen.be/en/research-groups/antwerp-center-responsible-ai/).
 
 I am an interdisciplinary researcher specializing in Responsible AI, with a particular focus on bias and fairness in Natural Language Processing. My work bridges three perspectives: (1) technical, through deep expertise in NLP; (2) societal, by examining the human impact of AI systems; and (3) applied, drawing on my background in business engineering to translate insights into actionable guidelines for organizations.
 
@@ -25,7 +25,7 @@ I am an interdisciplinary researcher specializing in Responsible AI, with a part
 
 📢 News 
 ======
-*2025.06*: I successfully defended my PhD, the full booklet can be found[here](https://kuleuven.limo.libis.be/discovery/fulldisplay?docid=lirias4232354&context=SearchWebhook&vid=32KUL_KUL:Lirias&lang=en&search_scope=lirias_profile&adaptor=SearchWebhook&tab=LIRIAS&query=any,contains,LIRIAS4232354&offset=0).
+*2025.06*: I successfully defended my PhD, the full booklet can be found [here](https://kuleuven.limo.libis.be/discovery/fulldisplay?docid=lirias4232354&context=SearchWebhook&vid=32KUL_KUL:Lirias&lang=en&search_scope=lirias_profile&adaptor=SearchWebhook&tab=LIRIAS&query=any,contains,LIRIAS4232354&offset=0). \\
 *2025.06*: Our newest paper [On the performance of LLMs for Real Estate Appraisal](https://arxiv.org/abs/2506.11812) is accepted at ECML-PKDD 2025.\\
 *2025.06*: I got the opportunity to pitch at the [Social Science and Humanities Research day](https://ghum.kuleuven.be/NL/dag-van-het-onderzoek-hw-2025) on language bias in AI.\\
 *2025.05*: I was invited to give a talk on our latest paper on Large Language Models to make Museum Archive Collections more accessible in the AI in cultural heritage group.\\
