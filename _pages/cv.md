@@ -11,12 +11,28 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computational Social Science and Bias and Fairness in NLP, KU Leuven, 2025 (expected)
+* Ph.D in Business Economics, KU Leuven, 2025
 * Research stay University of Michigan, October-December 2024
 * Research stay University of Melbourne, september 2022
 * M.S. in Business engineering (Magna Cum Laude - 84%), KU Leuven, 2021
 * B.S. in Business engineering (Magna Cum Laude - 77.5%), KU Leuven, 2019
 * Exchange Semester at Brock university, 2018
+
+Work Experience
+======
+* 2025-present: Senior Researcher and Research Manager of ACRAI
+  * University of Antwerp
+  * Project: Responsible AI
+* 2025- present: Guest Lecturer
+  * KU Leuven
+  * Teaching Principles of Database Management
+* 2021-2025: PhD Researcher
+  * KU Leuven
+  * Beyond Performance: Exploring the Multidimensional Capabilities and Risks of Large Language Models
+  * Supervisor: Bart Baesens; Co-Supervisors: Wouter Verbeke and Seppe vanden Broucke
+* Summer 2020: Internship
+  * Infofarm
+  * Duties included: Data Preparation and Modeling
 
 Publications
 ======
@@ -49,13 +65,6 @@ Languages
 * English (C1)
 * French (B2)
 * Turkish (A1)
-
-Work experience
-======
-
-* Summer 2020: Internship
-  * Infofarm
-  * Duties included: Data Preparation and Modeling
 
 Service and leadership
 ======
