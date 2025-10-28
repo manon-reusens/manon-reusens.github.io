@@ -25,6 +25,7 @@ I am an interdisciplinary researcher specializing in Responsible AI, with a part
 
 📢 News 
 ======
+*2025.10*: Our paper [Native Design Bias: Studying the Impact of English Nativeness on Language Model Performance](https://arxiv.org/abs/2406.17385) is accepted at ICNLP-AACL (findings). \\
 *2025.08*: Our latest paper [Are Economists Always More Introverted? Analyzing Consistency in Persona-Assigned LLMs](https://arxiv.org/abs/2506.02659) is accepted at EMNLP (findings). \\
 *2025.08*: Our newest paper [LLM anthropomorphization: balancing ethics and business value](https://www.tandfonline.com/doi/abs/10.1080/2573234X.2025.2551951) was published in Journal of Business Analytics. \\
 *2025.06*: I successfully defended my PhD, the full booklet can be found [here](https://kuleuven.limo.libis.be/discovery/fulldisplay?docid=lirias4232354&context=SearchWebhook&vid=32KUL_KUL:Lirias&lang=en&search_scope=lirias_profile&adaptor=SearchWebhook&tab=LIRIAS&query=any,contains,LIRIAS4232354&offset=0). \\
