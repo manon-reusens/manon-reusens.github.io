@@ -61,10 +61,10 @@ Apart from this, I have also guided summer interns.
   
 Languages
 ======
-* Dutch (C2)
-* English (C1)
-* French (B2)
-* Turkish (A1)
+* Dutch 
+* English 
+* French 
+* Turkish (notions)
 
 Service and leadership
 ======

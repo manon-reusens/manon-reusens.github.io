@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-11-09-paper-title-number-9
 excerpt: 'We introduce a novel framework to analyze consistency in persona-assigned LLMs.'
 date: 2025-11-09
-venue: 'Findings of the Association for Computational Linguistics: EMNLP 2025'
+venue: 'Findings of the Association for Computational Linguistics: EMNLP'
 paperurl: 'https://aclanthology.org/2025.findings-emnlp.603/'
 citation: 'Manon Reusens, Bart Baesens, and David Jurgens. 2025. Are Economists Always More Introverted? Analyzing Consistency in Persona-Assigned LLMs. In Findings of the Association for Computational Linguistics: EMNLP 2025, pages 11268–11287, Suzhou, China. Association for Computational Linguistics.'
 ---
