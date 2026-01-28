@@ -6,6 +6,7 @@ excerpt: 'This paper includes a benchmark study comparing different techniques f
 date: 2024-06-01
 venue: 'Expert Systems with Applications'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0957417424011680'
+publication_type: journal 
 citation: 'Reusens, M., Stevens, A., Tonglet, J., De Smedt, J., Verbeke, W., Vanden Broucke, S., & Baesens, B. (2024). Evaluating text classification: A benchmark study. Expert Systems with Applications, 124302.'
 ---
 Abstract:\\

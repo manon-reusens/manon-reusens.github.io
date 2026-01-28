@@ -6,6 +6,7 @@ excerpt: 'We systematically evaluate leading LLMs on diverse international housi
 date: 2025-09-29
 venue: 'ECML PKDD'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-032-06118-8_12'
+publication_type: conference 
 citation: 'Geerts, M., Reusens, M., Baesens, B., vanden Broucke, S., De Weerdt, J. (2026). On the Performance of LLMs for Real Estate Appraisal. In: Dutra, I., et al. Machine Learning and Knowledge Discovery in Databases. Applied Data Science Track. ECML PKDD 2025. Lecture Notes in Computer Science(), vol 16021. Springer, Cham. https://doi.org/10.1007/978-3-032-06118-8_12'
 ---
 Abstract:\\

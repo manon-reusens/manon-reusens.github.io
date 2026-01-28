@@ -6,6 +6,7 @@ excerpt: 'This paper uses topic modelling to analyze innovation within Flemish c
 date: 2023-03-05
 venue: 'Journal of Business Analytics'
 paperurl: 'https://www.tandfonline.com/doi/pdf/10.1080/2573234X.2023.2186274'
+publication_type: journal 
 citation: 'Crijns, A., Vanhullebusch, V., Reusens, M., Reusens, M., & Baesens, B. (2023). Topic modelling applied on innovation studies of Flemish companies. Journal of Business Analytics, 6(4), 243-254.'
 ---
 Abstract: 

@@ -6,6 +6,7 @@ excerpt: 'This paper investigates the transferability of debiasing techniques ac
 date: 2023-10-01
 venue: 'EMNLP'
 paperurl: 'https://aclanthology.org/2023.emnlp-main.175/'
+publication_type: conference 
 citation: 'Reusens, M., Borchert, P., Mieskes, M., De Weerdt, J., & Baesens, B. (2023, December). Investigating Bias in Multilingual Language Models: Cross-Lingual Transfer of Debiasing Techniques. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (pp. 2887-2896).'
 ---
 Abstract: \\

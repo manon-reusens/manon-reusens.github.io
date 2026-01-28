@@ -6,6 +6,7 @@ excerpt: 'This viewpoint article offers a cross-disciplinary synthesis of insigh
 date: 2025-08-27
 venue: 'Journal of Business Analytics'
 paperurl: 'https://link.springer.com/article/10.1007/s00146-025-02227-8'
+publication_type: journal 
 citation: 'Reusens, M., & Baesens, B. (2025). LLM anthropomorphization: balancing ethics and business value. Journal of Business Analytics, 1–18. https://doi.org/10.1080/2573234X.2025.2551951'
 ---
 Abstract:\\

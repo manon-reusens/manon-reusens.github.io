@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+## Journal Articles
+{% assign journals = site.publications | where: "publication_type", "journal" %}
+{% for post in journals reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Conference Papers
+{% assign conferences = site.publications | where: "publication_type", "conference"  %}
+{% for post in conferences reversed %}
   {% include archive-single.html %}
 {% endfor %}

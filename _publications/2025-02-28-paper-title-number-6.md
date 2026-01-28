@@ -6,6 +6,7 @@ excerpt: 'This paper shows how to LLMs offer potential to make archive collectio
 date: 2025-02-28
 venue: 'AI & SOCIETY'
 paperurl: 'https://link.springer.com/article/10.1007/s00146-025-02227-8'
+publication_type: journal 
 citation: 'Reusens, M., Adams, A. & Baesens, B.  (2025). Large Language Models to make museum archive collections more accessible. AI & SOCIETY. https://doi.org/10.1007/s00146-025-02227-8'
 ---
 Abstract:\\

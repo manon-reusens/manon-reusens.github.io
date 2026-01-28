@@ -6,6 +6,7 @@ excerpt: 'This paper introduces a three-step weak supervision approach for predi
 date: 2024-02-01
 venue: 'TOP'
 paperurl: 'https://link.springer.com/content/pdf/10.1007/s11750-024-00666-y.pdf'
+publication_type: journal 
 citation: 'Tonglet, J., Jehoul, A., Reusens, M., Reusens, M., & Baesens, B. (2024). Predicting the demographics of Twitter users with programmatic weak supervision. Top, 1-37.'
 ---
 Abstract:\\

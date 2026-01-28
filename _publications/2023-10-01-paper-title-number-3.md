@@ -6,6 +6,7 @@ excerpt: 'This paper introduces a new exemplar selection method named SEER for i
 date: 2023-10-01
 venue: 'EMNLP'
 paperurl: 'https://aclanthology.org/2023.emnlp-main.837/'
+publication_type: conference 
 citation: 'Tonglet, J., Reusens, M., Borchert, P., & Baesens, B. (2023, December). SEER: A Knapsack approach to Exemplar Selection for In-Context HybridQA. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (pp. 13569-13583).'
 ---
 Abstract:\\

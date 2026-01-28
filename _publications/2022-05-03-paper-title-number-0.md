@@ -6,6 +6,7 @@ excerpt: 'This paper benchmarks several outlier detection methods.'
 date: 2022-05-03
 venue: 'International Conference on Research Challenges in Information Science'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-05760-1_35'
+publication_type: conference 
 citation: 'Tiukhova, E., Reusens, M., Baesens, B., & Snoeck, M. (2022, May). Benchmarking conventional outlier detection methods. In International Conference on Research Challenges in Information Science (pp. 597-613). Cham: Springer International Publishing.'
 ---
 Abstract: 
