@@ -36,9 +36,17 @@ Work Experience
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Journal Articles
+{% assign journals = site.publications | where: "publication_type", "journal" %}
+<ul>{% for post in journals reversed %}
+  {% include archive-single.html %}
+{% endfor %}</ul>
+
+## Conference Papers
+{% assign conferences = site.publications | where: "publication_type", "conference"  %}
+<ul>{% for post in conferences reversed %}
+  {% include archive-single.html %}
+{% endfor %}</ul>
   
 Talks
 ======
