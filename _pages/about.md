@@ -25,7 +25,7 @@ I am an interdisciplinary researcher specializing in Responsible AI, with a part
 
 📢 News 
 ======
-*2026.01*: I am invited to give a talk on our paper on [consistency analysis in persona-assigned LLMs](https://aclanthology.org/2025.findings-emnlp.603/) at the Biomina Lunch Talks \\
+*2026.01*: I was invited to give a talk on our paper on [consistency analysis in persona-assigned LLMs](https://aclanthology.org/2025.findings-emnlp.603/) at the Biomina Lunch Talks \\
 *2025.10*: Our paper [Native Design Bias: Studying the Impact of English Nativeness on Language Model Performance](https://aclanthology.org/2025.findings-ijcnlp.73/) is accepted at IJCNLP-AACL (findings). \\
 *2025.08*: Our latest paper [Are Economists Always More Introverted? Analyzing Consistency in Persona-Assigned LLMs](https://aclanthology.org/2025.findings-emnlp.603/) is accepted at EMNLP (findings). \\
 *2025.08*: Our newest paper [LLM anthropomorphization: balancing ethics and business value](https://www.tandfonline.com/doi/abs/10.1080/2573234X.2025.2551951) was published in Journal of Business Analytics. \\
